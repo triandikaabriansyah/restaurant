@@ -1,0 +1,102 @@
+{
+    "menu": [
+        {
+            "kategori": "ayam",
+            "nama": "5 PLUS 3 HC",
+            "deskripsi": "5 Pcs Ayam HC + 3 Nasi.",
+            "harga": 79000,
+            "gambar": "5-PLUS-3-HC.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Wing Original Chicken",
+            "deskripsi": "1 Pc Wing Chicken OR.",
+            "harga": 35000,
+            "gambar": "Wing-Original-Chicken.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Hot and Crispy Chicken",
+            "deskripsi": "1 Pc Chicken HCC.",
+            "harga": 32000,
+            "gambar": "Hot-and-Crispy-Chicken.jpg"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Crispy Strips",
+            "deskripsi": "Crispy Strips.",
+            "harga": 12000,
+            "gambar": "Crispy-Strips.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "OMJ Praktis Fish Fillet",
+            "deskripsi": "1 Porsi Fish Fillet.",
+            "harga": 12500,
+            "gambar": "OMJ-Praktis-Fish-Fillet.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Colonel Burger",
+            "deskripsi": "Colonel Burger",
+            "harga": 14000,
+            "gambar": "Colonel-Burger.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Krispy Burger",
+            "deskripsi": "Krispy Burger.",
+            "harga": 24000,
+            "gambar": "Krispy-Burger.jpg"
+        },
+        {
+            "kategori": "chizza",
+            "nama": "Mini Chizza 1",
+            "deskripsi": "Mini Chizza Bumbu Yakiniku.",
+            "harga": 34000,
+            "gambar": "Mini-Chizza-1.jpg"
+        },
+        {
+            "kategori": "chizza",
+            "nama": "Mini Chizza 2",
+            "deskripsi": "Mini Chizza Bumbu Asam Manis.",
+            "harga": 34000,
+            "gambar": "Mini-Chizza-2.jpg"
+        },
+        {
+            "kategori": "chizza",
+            "nama": "Mini Chizza 3",
+            "deskripsi": "Mini Chizza Grilled Soy Sauce.",
+            "harga": 34000,
+            "gambar": "Mini-Chizza-3.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Happy Berry Float",
+            "deskripsi": "Happy Berry Float",
+            "harga": 10500,
+            "gambar": "Happy-Berry-Float.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Lovlychee Float",
+            "deskripsi": "Lovlychee Float",
+            "harga": 10500,
+            "gambar": "Lovlychee-Float.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Mango Float",
+            "deskripsi": "Mango Float",
+            "harga": 10500,
+            "gambar": "Mango-Float.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Mocha Float",
+            "deskripsi": "Mocha Float",
+            "harga": 12500,
+            "gambar": "Mocha-Float.jpg"
+        }
+    ]
+}
